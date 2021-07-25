@@ -1,5 +1,6 @@
 {
   "name": "apis-and-microservices",
+  "author": "Truong",
   "version": "1.0.0",
   "description": "Learning for APIs and Microservices",
   "main": "index.js",
@@ -15,7 +16,6 @@
     "nodejs",
     "microservices"
   ],
-  "author": "Truong Tran",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/truongthanh1303/APIs-and-Microservices/issues"
