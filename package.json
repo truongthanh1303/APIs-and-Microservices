@@ -1,0 +1,24 @@
+{
+  "name": "apis-and-microservices",
+  "version": "1.0.0",
+  "description": "Learning for APIs and Microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/truongthanh1303/APIs-and-Microservices.git"
+  },
+  "keywords": [
+    "learn",
+    "nodejs",
+    "microservices"
+  ],
+  "author": "Truong Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/truongthanh1303/APIs-and-Microservices/issues"
+  },
+  "homepage": "https://github.com/truongthanh1303/APIs-and-Microservices#readme"
+}
